@@ -1,0 +1,23 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 45px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.task-form {
+    margin-bottom: 20px;
+}
+
+#task-list {
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
