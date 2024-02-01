@@ -21,3 +21,17 @@ header {
     padding: 10px;
     border-radius: 10px;
 }
+
+table {
+    border-collapse: collapse;
+}
+table td {
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid black;
+}
+table th {
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid black;
+}
